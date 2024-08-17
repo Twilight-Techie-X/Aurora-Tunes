@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: aurora-tunes
+Formal-Name: Aurora Tunes
+App-ID: com.tunes.aurora.aurora-tunes
+Version: 0.0.1
+Home-page: https://x.com/Twilight_Techie
+Download-URL: https://x.com/Twilight_Techie
+Author: Twilight Techie
+Author-email: da.kings.air@gmail.com
+Summary: Music player built in Python's Beeware.
